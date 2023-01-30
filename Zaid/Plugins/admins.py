@@ -580,7 +580,7 @@ async def x_description(e):
 
 
 
-__name__ = "admin"
+__name__ = "Admin"
 __help__ = """
 Help menu for the **Admin** module:
 **Admin Commands:**
