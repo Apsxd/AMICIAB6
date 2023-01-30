@@ -238,7 +238,7 @@ async def _(event):
         await event.edit(c_text, buttons=buttons)
 
 
-__name__ = "approval"
+__name__ = "Approval"
 __help__ = """
 Here is the help for **Approval** module:
 
